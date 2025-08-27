@@ -34,17 +34,12 @@ The app combines **Quran reading, translations, prayer times, Hijri calendar, fa
 
 ---
 
-## 📱 Screenshots
-*(Add screenshots here when available)*
-
----
-
 ## 🛠️ Tech Stack
 
 - **Flutter** (Dart) – App Development
 - **GetX** – State Management & Navigation
-- **Firebase** – (if used for authentication/notifications)
-- **Local Database** – For offline storage of prayer times and favorites
+- **Sqflite** - offline storage of surahs, prayer times and favorites
+- **Al-Quran Cloud API ** - Used for accessing Holy Quran and its translation in english
 - **Location API** – To auto-detect user’s city for prayer times
 
 
