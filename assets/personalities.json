@@ -1,0 +1,23 @@
+[
+  {
+    "id": "saladin",
+    "name": "Salah ad-Din Yusuf ibn Ayyub",
+    "birth": "c.1137",
+    "death": "4 March 1193",
+    "biography": "Early Life (1137/1138–1169):- \n Sultan Salahuddin Ayyubi, known as Saladin, was born in 1137 or 1138 in Tikrit, Iraq, to a Kurdish family. His father, Najmuddin Ayyub, and uncle, Shirkuh, were military figures, shaping his early exposure to warfare. Raised in Baalbek and Damascus, Salahuddin studied Islamic theology and strategy. He joined Shirkuh’s campaigns in Egypt (1164–1167) under Nuruddin Zengi, Syria’s ruler. In 1169, at about 31, he became vizier of Egypt under the Fatimid Caliphate.\n\n Rise to Power (1169–1174):- \n As vizier, Salahuddin consolidated power in Egypt, abolishing the Fatimid Caliphate in 1171 to establish Sunni rule under the Abbasid Caliphate. After Nuruddin’s death in 1174, he declared himself Sultan, founding the Ayyubid dynasty. He unified Egypt, Syria, and parts of Mesopotamia and North Africa, creating a strong Muslim coalition against the Crusaders.   \n\n Battle of Hattin and Jerusalem (1187):- \n Salahuddin’s greatest triumph was the Battle of Hattin in 1187, where his disciplined army defeated the Crusaders, capturing their leaders and the True Cross. This victory led to the recapture of Jerusalem in October 1187. Unlike the brutal 1099 Crusader conquest, Salahuddin showed mercy, allowing Christians safe passage and protecting holy sites. \n\nThird Crusade (1189–1192):- \nThe fall of Jerusalem triggered the Third Crusade, led by Richard the Lionheart and others. Salahuddin lost Acre in 1191 but used guerrilla tactics to counter Richard’s advances. At the Battle of Arsuf (1191), Richard won a tactical victory, but Salahuddin’s forces held firm. In 1192, he negotiated the Treaty of Ramla, granting Christians access to Jerusalem’s holy sites while retaining Muslim control.      \n\nGovernance and Death (1174–1193):- \n   Salahuddin was a devout Muslim, emphasizing justice and tolerance. He supported madrasas and built fortifications, while his humility and charity were widely noted. He died in Damascus on March 4, 1193, from a fever, leaving a modest estate after giving much to the poor."
+  },
+  {
+    "id": "ibn_sina",
+    "name": "Ibn Sina (Avicenna)",
+    "birth": "980",
+    "death": "June 1037",
+    "biography": "Ibn Sina (980 – June 1037), known in the West as Avicenna, was a Persian polymath who made lasting contributions to medicine, philosophy, and science. His most famous work, 'The Canon of Medicine', was a standard medical text in Europe and the Islamic world for centuries. Ibn Sina's ideas influenced both Islamic and European thought, making him one of the most significant figures in the history of medicine."
+  },
+  {
+    "id": "imam_bukhari",
+    "name": "Imam al-Bukhari",
+    "birth": "810",
+    "death": "870",
+    "biography": "Imam Muhammad al-Bukhari (810 – 870) was a renowned Islamic scholar and compiler of hadith. His collection, 'Sahih al-Bukhari', is considered the most authentic book after the Qur'an in Sunni Islam. Born in Bukhara, he traveled extensively to collect authentic sayings of the Prophet Muhammad (peace be upon him), ensuring their accuracy through rigorous methodology."
+  }
+]
