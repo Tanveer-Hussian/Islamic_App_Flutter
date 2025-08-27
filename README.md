@@ -1,16 +1,51 @@
-# islamic_app
+# 📖 Islamic App (Flutter)
 
-A new Flutter project.
+A modern Islamic mobile application built with **Flutter** to provide essential features for Muslims in one place.  
+The app combines **Quran reading, translations, prayer times, Hijri calendar, favorites, and more** with a beautiful and user-friendly design.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📖 **Holy Quran**
+  - Read the full Quran in Arabic
+  - Translation support (multiple languages)
+  - Smooth navigation between Surahs and Ayahs
+  - Favorites system to quickly access saved Surahs/Ayahs
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🕌 **Prayer Times**
+  - Auto-detects user location for accurate timings
+  - Saves city locally for **offline use**
+  - Updates automatically when online
+  - Daily Salah schedule (Fajr, Dhuhr, Asr, Maghrib, Isha)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 📅 **Hijri Calendar**
+  - Displays Islamic (Hijri) calendar
+  - Helps track important Islamic dates
+
+- ❤️ **Favorites**
+  - Save Surahs, Ayahs, or features you use frequently
+  - Easy access from the favorites section
+
+- 🎨 **Beautiful UI/UX**
+  - Dark mode support
+  - Modern clean design with smooth navigation
+  - Optimized for performance
+
+---
+
+## 📱 Screenshots
+*(Add screenshots here when available)*
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter** (Dart) – App Development
+- **GetX** – State Management & Navigation
+- **Firebase** – (if used for authentication/notifications)
+- **Local Database** – For offline storage of prayer times and favorites
+- **Location API** – To auto-detect user’s city for prayer times
+
+
+
